@@ -59,3 +59,4 @@ dreambooth_rosie
 # images
 images/*
 output_images/*.cfg
+img_out
