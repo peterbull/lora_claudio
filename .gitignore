@@ -1,0 +1,61 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+
+# Environmental Variables
+*.env
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+.venv
+venv
+app.db
+
+.cfg
+
+# zip files
+*.zip
+
+# project data
+playground-series-s3e11
+
+# models
+models/*
+lora_rosie
+dreambooth_rosie
+
+# images
+images/*
+output_images/*.cfg
