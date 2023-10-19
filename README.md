@@ -1,2 +1,2 @@
 # lora_claudio
-testing lora on pictures of my cat
+Testing low rank adaptation on pictures of my cat
